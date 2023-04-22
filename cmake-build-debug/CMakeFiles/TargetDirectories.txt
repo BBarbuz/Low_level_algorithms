@@ -1,0 +1,3 @@
+/home/arbuz/CLionProjects/Algorytmika_pollub/cmake-build-debug/CMakeFiles/Algorytmika_pollub.dir
+/home/arbuz/CLionProjects/Algorytmika_pollub/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/arbuz/CLionProjects/Algorytmika_pollub/cmake-build-debug/CMakeFiles/rebuild_cache.dir
